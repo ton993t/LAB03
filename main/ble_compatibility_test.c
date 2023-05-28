@@ -126,7 +126,7 @@ static uint8_t raw_adv_data[] = {
         /* tx power*/
         0x02, 0x0a, 0xeb,
         /* device name */ 
-        0x03, 0x09, 'N', '5',
+        0x03, 0x09, 'N', '3',
         /* service data*/ 
         0x07, 0x16, 0xFF, 0x00, 'N', '.', 'H', 'G',
         /*manufacturer*/
